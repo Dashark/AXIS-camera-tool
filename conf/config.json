@@ -1,0 +1,12 @@
+{
+    "注释1": "重启配置",
+    "start_time": "05:00:00",
+    "end_time": "05:01:00",
+    "username": "root",
+    "password": "pass",
+    "reboot_ip_list": ["192.168.0.90","192.168.0.91"],
+    "注释2": "操作应用配置",
+    "action": "start",
+    "app_name": "objectanalytics",
+    "app_ip_list": ["192.168.0.90","192.168.0.91"]
+}
